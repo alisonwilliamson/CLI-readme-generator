@@ -38,11 +38,9 @@ THEN I am taken to the corresponding section of the README
 ```
 Open the terminal and run "npm install." Then run "node index.js" and answer the following question prompts. When finished a readme.md file will be generated with your answers.
 
-## Screenshots
-```
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/54878075/90213211-2c4fa600-ddc3-11ea-92e1-910f9361b6e2.png)
 ![Screenshot (14)](https://user-images.githubusercontent.com/54878075/90213249-4a1d0b00-ddc3-11ea-9db2-3c2b0cf24964.png)
 ![Screenshot (15)](https://user-images.githubusercontent.com/54878075/90213236-396c9500-ddc3-11ea-9ad7-88730ec57ee7.png)
 ![Screenshot (16)](https://user-images.githubusercontent.com/54878075/90213265-5b661780-ddc3-11ea-9b69-62af012c488a.png)
-```
+
