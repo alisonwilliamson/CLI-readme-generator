@@ -33,3 +33,7 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
+
+## Installation
+```
+Open the terminal and run "npm install." Then run "node index.js" and answer the following question prompts. When finished a readme.md file will be generated with your answers.
