@@ -36,7 +36,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Installation
 ```
-Open the terminal and run "npm install." Then run "node index.js" and answer the following question prompts. When finished a readme.md file will be generated with your answers.
+Open the terminal and make sure you are in the correct directory under "CLI-readme-generator/develop." Run "npm install." Then run "node index.js" and answer the following question prompts. When finished a readme.md file will be generated with your answers.
 ```
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/54878075/90213211-2c4fa600-ddc3-11ea-92e1-910f9361b6e2.png)
