@@ -39,7 +39,7 @@ THEN I am taken to the corresponding section of the README
 Open the terminal and make sure you are in the correct directory under "CLI-readme-generator/develop." Run "npm install." Then run "node index.js" and answer the following question prompts. When finished a readme.md file will be generated with your answers.
 ```
 
-Link to video demo: https://drive.google.com/file/d/1iurT4hHiy-KI3O7bo2YHMEwClPIlPIQy/view
+Link to video demo: https://drive.google.com/file/d/1iurT4hHiy-KI3O7bo2YHMEwClPIlPIQy/view?usp=sharing
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/54878075/90213211-2c4fa600-ddc3-11ea-92e1-910f9361b6e2.png)
 ![Screenshot (14)](https://user-images.githubusercontent.com/54878075/90213249-4a1d0b00-ddc3-11ea-9db2-3c2b0cf24964.png)
