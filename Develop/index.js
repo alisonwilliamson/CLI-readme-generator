@@ -75,7 +75,7 @@ async function writeToFile(filename, data) {
 function init() {
   inquirer.prompt(questions).then((results) => {
     const readTemplate = generateMarkdown(results);
-    writeToFile("README.md", readTemplate);
+    writeToFile("TestREADME.md", readTemplate);
     return "success"
   });
 }
